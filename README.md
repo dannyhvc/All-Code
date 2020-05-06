@@ -1,2 +1,2 @@
 # All-Code
-<p>All code here is associated in the zip files.</p>
+> Just a bunch of random, hopefully useful code that can help you understand ongoing projects.
